@@ -1,6 +1,6 @@
 # Flora-App
 
-react-native based home accessory ios/Android application.
+`react-native` based home accessory ios/Android application.
 
 ![Screen 1](https://i.imgur.com/R4evA62.png)
 ![Screen 2](https://i.imgur.com/V385805.png)
